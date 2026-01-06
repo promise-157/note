@@ -1,0 +1,6 @@
+[wsl2]
+swap=4GB
+networkingMode=Mirrored
+[experimental]
+hostAddressLoopback=true
+bestEffortDnsParsing=true
